@@ -1,0 +1,6 @@
+{
+  "name": "VyapaarOS - Business Operating System",
+  "description": "Production-Grade Multi-Tenant Business Operating System SaaS connecting Business, Buyer, Supplier, CA, Accounting, GST, Tally, and Banking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
